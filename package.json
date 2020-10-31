@@ -3,11 +3,16 @@
         "docs:dev": "vuepress dev docs",
         "docs:build": "vuepress build docs"
     },
-    "dependencies": {},
+    "dependencies": {
+        "@omar2535/vuepress-sidebar-children-autogenerator": "^3.1.0"
+    },
     "devDependencies": {
+        "@vuepress/plugin-blog": "^1.9.2",
         "@vuepress/plugin-medium-zoom": "^1.6.0",
         "markdown-it-task-lists": "^2.1.1",
         "vuepress": "^1.6.0",
+        "vuepress-plugin-auto-sidebar": "^1.5.0",
+        "vuepress-plugin-autobar": "github:boboidream/vuepress-bar",
         "vuepress-plugin-mathjax": "^1.2.8",
         "vuepress-plugin-medium-zoom": "^1.1.9",
         "vuepress-theme-reco": "^1.5.7"

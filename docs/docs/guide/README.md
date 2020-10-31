@@ -2,6 +2,9 @@
 title: GUIDE
 date: 2019-08-08
 author: emma
+categories: 
+ - guide
+ - guide2
 tags:
  - guide
 ---
